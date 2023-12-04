@@ -1,5 +1,5 @@
 from pprint import pprint
-import re
+
 
 def save_input():
     with open("input") as f:
